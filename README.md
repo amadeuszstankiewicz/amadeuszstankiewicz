@@ -1,6 +1,7 @@
-### <center>Hi there 👋</center>
-### <center>I'm Amadeusz Stankiewicz</center>
-###### <center>Full Stack and Android developer</center>
+
+### <p align="center">Hi there 👋</p>
+### <p align="center">I'm Amadeusz Stankiewicz</p>
+###### <p align="center">Full Stack and Android developer</p>
 ---
 #### Skills and experience
 - ⚛ React
