@@ -12,6 +12,6 @@
 - 🐍 Python
 ---
 ### Check my portfolio
-https://astankiewicz.netlify.app/
+https://astanek.netlify.app/
 
 
