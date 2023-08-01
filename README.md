@@ -4,10 +4,11 @@
 ###### <p align="center">Full Stack and Android developer</p>
 ---
 ### Skills and experience
-- ⚛ React
-- 💻 HTML, CSS, JavaScript
+- ⚛ React, Next.js, Tailwind
+- 💻 HTML, CSS, JavaScript, Express.js, jQuery, Vue
 - 🐬 MySQL
-- 💾 PHP
+- 🍃 MongoDB
+- 💾 Wordpress, PHP
 - 📱 Kotlin
 - 🐍 Python
 ---
